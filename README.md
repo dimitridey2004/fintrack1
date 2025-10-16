@@ -1,5 +1,7 @@
 # 💰 FinTrack - Financial Budget Planner
 
+------
+
 **FinTrack** is a modern web application for managing and planning your personal or business finances. Built using Next.js, it provides a user-friendly interface, efficient routing, and integrates with Genkit AI for smart financial insights.
 
 ## ✨ Features
